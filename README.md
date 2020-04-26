@@ -1,2 +1,4 @@
 # PeliHarkka
 PeliOhjelmoinnin lopputy√∂
+ja kurssi-harjoitusten filet.
+Gitlab meni niin pahasti jumiin, ett‰ jouduin heittamaan tiedostot tanne.
