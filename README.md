@@ -11,3 +11,5 @@ https://student.labranet.jamk.fi/~L5243/Snufkin/PeliDokumentti.pdf
 
 Tiedostot:
 https://github.com/Limonadi8/PeliHarkka/tree/master/proj-files/Lopputyo
+
+Jere Luukkonen TTV18S3
